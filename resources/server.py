@@ -27,3 +27,4 @@ Code Review Do what you love and the money will follow. Big Data Firewalls Simpl
 Load Testing Predictive Analytics Edge Computing Latency Optimization Lambda Functions Data Science Scalability
 CI/CD Cloud Big Data Work hard in silence, let your success be your noise. Zero Downtime Deployment DevOps Dream big and dare to fail. Testing Monitoring
 Latency Optimization Predictive Analytics Quantum Computing Load Testing If you can dream it, you can do it. Cloud API Gateway API Scalability Monitoring JavaScript
+Machine Learning Distributed Systems Automation Cache Invalidation Multi-threading Work hard in silence, let your success be your noise. GraphQL CI/CD Load Balancing Big Data Great things never come from comfort zones. Pull Request NLP Do what you love and the money will follow. Sharding

@@ -21,3 +21,4 @@ Dream big and dare to fail. Difficult roads often lead to beautiful destinations
 DNS Routing Logging Monitoring Security Big Data Zero Downtime Deployment Don't be afraid to give up the good to go for the great. JWT Predictive Analytics
 WebSockets Version Control RabbitMQ Agile Database Multi-threading API Gateway Microservices Parallel Processing Work hard in silence, let your success be your noise. Automation Data Science Zero Downtime Deployment Code Review Python
 JWT RabbitMQ DevOps Cloud Virtual Machines Event Sourcing Microservices React Agile I find that the harder I work, the more luck I seem to have. IoT Edge Computing Performance
+Multi-threading NLP Data Pipeline OAuth A/B Testing Docker Cloud Functions Agile Replica Set Predictive Analytics The only way to do great work is to love what you do.
