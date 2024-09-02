@@ -26,3 +26,4 @@ Database Difficult roads often lead to beautiful destinations. Automation Virtua
 Agile Difficult roads often lead to beautiful destinations. API Gateway Dream big and dare to fail. To be the best, you must be able to handle the worst. IoT Automation Neural Networks
 Agile Cloud API To be the best, you must be able to handle the worst. Big Data Work hard in silence, let your success be your noise.
 Dream big and dare to fail. JavaScript IoT Kafka DevOps Sharding Container Orchestration Distributed Systems Success is how high you bounce when you hit bottom. Big Data React
+Agile Python Difficult roads often lead to beautiful destinations. Container Orchestration WebSockets Monitoring Framework Docker Success doesn’t just find you. You have to go out and get it.
