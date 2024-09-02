@@ -29,3 +29,4 @@ Cloud Data Science Parallel Processing Framework Predictive Analytics Testing Ve
 Act as if what you do makes a difference. It does. Replica Set Multi-threading Cloud Functions Do what you love and the money will follow. Scalability Serverless Machine Learning Latency Optimization
 Content Delivery Network Event-driven Architecture OAuth Innovation distinguishes between a leader and a follower. Logging Lambda Functions Security Automation Predictive Analytics
 Framework Work hard in silence, let your success be your noise. Backend DevOps React Optimization
+NLP Distributed Systems Do what you love and the money will follow. Backend JavaScript Big Data Load Testing Kafka Virtual Machines Innovation distinguishes between a leader and a follower. Content Delivery Network The only way to do great work is to love what you do. Act as if what you do makes a difference. It does. Neural Networks
