@@ -20,3 +20,4 @@ Code Review Latency Optimization Multi-threading Cloud Functions Container Orche
 Dream big and dare to fail. Difficult roads often lead to beautiful destinations. Testing UX Optimization Firewalls Security
 DNS Routing Logging Monitoring Security Big Data Zero Downtime Deployment Don't be afraid to give up the good to go for the great. JWT Predictive Analytics
 WebSockets Version Control RabbitMQ Agile Database Multi-threading API Gateway Microservices Parallel Processing Work hard in silence, let your success be your noise. Automation Data Science Zero Downtime Deployment Code Review Python
+JWT RabbitMQ DevOps Cloud Virtual Machines Event Sourcing Microservices React Agile I find that the harder I work, the more luck I seem to have. IoT Edge Computing Performance
