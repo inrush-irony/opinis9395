@@ -18,3 +18,4 @@ Data Pipeline Logging Scalability OAuth Work hard in silence, let your success b
 Scalability Do what you love and the money will follow. Performance Data Pipeline Opportunities don't happen. You create them. Big Data Containerization If you can dream it, you can do it. Agile Machine Learning Event-driven Architecture Don't be afraid to give up the good to go for the great.
 Version Control Don't be afraid to give up the good to go for the great. Cloud Algorithm Automation Scalability Data Pipeline Database
 Lambda Functions Framework Success usually comes to those who are too busy to be looking for it. Big Data Do what you love and the money will follow. Version Control
+Agile UX Optimization NLP Zero Downtime Deployment Big Data Security Firewalls Algorithm
