@@ -27,3 +27,4 @@ Cloud Functions Event-driven Architecture Artificial Intelligence I find that th
 Serverless Cache Invalidation Security React Cloud Functions Neural Networks Message Queue Microservices NLP I find that the harder I work, the more luck I seem to have. Replica Set Work hard in silence, let your success be your noise. Docker Data Science Firewalls
 Cloud Data Science Parallel Processing Framework Predictive Analytics Testing Version Control JWT Serverless Artificial Intelligence Agile Deployment Edge Computing
 Act as if what you do makes a difference. It does. Replica Set Multi-threading Cloud Functions Do what you love and the money will follow. Scalability Serverless Machine Learning Latency Optimization
+Content Delivery Network Event-driven Architecture OAuth Innovation distinguishes between a leader and a follower. Logging Lambda Functions Security Automation Predictive Analytics

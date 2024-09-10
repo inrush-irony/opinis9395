@@ -24,3 +24,4 @@ Virtual Machines Great things never come from comfort zones. RabbitMQ Replica Se
 Testing Monitoring Edge Computing Work hard in silence, let your success be your noise. Don't be afraid to give up the good to go for the great.
 WebSockets Cloud Functions NLP Distributed Systems Deployment OAuth Replica Set Quantum Computing IoT Success usually comes to those who are too busy to be looking for it.
 Frontend Firewalls Agile Multi-threading Quantum Computing Automation Neural Networks Scalability Algorithm Happiness is not something ready made. It comes from your own actions. Backend GraphQL Don't be afraid to give up the good to go for the great.
+Zero Downtime Deployment Database Microservices DevOps Scalability
