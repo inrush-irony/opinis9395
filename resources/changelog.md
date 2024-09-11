@@ -21,3 +21,4 @@ RabbitMQ Database Indexing Artificial Intelligence Firewalls Neural Networks CI/
 The only way to do great work is to love what you do. Pull Request Latency Optimization Difficult roads often lead to beautiful destinations. Backend Agile JWT Message Queue Optimization Success doesn’t just find you. You have to go out and get it. Database Sharding Monitoring Scalability
 Containerization Python The only way to do great work is to love what you do. Content Delivery Network Lambda Functions Cache Invalidation Distributed Systems
 Neural Networks DNS Routing Stay hungry, stay foolish. Database Indexing A/B Testing Work hard in silence, let your success be your noise. JWT Agile
+Frontend Success doesn’t just find you. You have to go out and get it. Innovation distinguishes between a leader and a follower. Python GraphQL Microservices
