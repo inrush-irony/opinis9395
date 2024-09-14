@@ -24,3 +24,4 @@ Python Happiness is not something ready made. It comes from your own actions. Lo
 Dream big and dare to fail. Predictive Analytics Zero Downtime Deployment UX Optimization Great things never come from comfort zones. Agile Distributed Systems
 Database Difficult roads often lead to beautiful destinations. Automation Virtual Machines Database Indexing
 Agile Difficult roads often lead to beautiful destinations. API Gateway Dream big and dare to fail. To be the best, you must be able to handle the worst. IoT Automation Neural Networks
+Agile Cloud API To be the best, you must be able to handle the worst. Big Data Work hard in silence, let your success be your noise.
