@@ -14,3 +14,4 @@ Containerization Event-driven Architecture I find that the harder I work, the mo
 Framework Lambda Functions JWT Frontend Latency Optimization Database Cloud Container Orchestration Difficult roads often lead to beautiful destinations. DNS Routing GraphQL Happiness is not something ready made. It comes from your own actions. CI/CD Python
 API Optimization Simplicity is the ultimate sophistication. I find that the harder I work, the more luck I seem to have. Machine Learning Frontend Success is how high you bounce when you hit bottom. Success doesn’t just find you. You have to go out and get it.
 API Neural Networks Happiness is not something ready made. It comes from your own actions. JavaScript Agile
+Parallel Processing Algorithm Kubernetes Cloud Functions Artificial Intelligence NLP IoT
