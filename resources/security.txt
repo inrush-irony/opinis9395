@@ -25,3 +25,4 @@ Cloud Docker Code Review Logging Automation RabbitMQ Cloud Functions
 Container Orchestration Version Control Load Balancing Content Delivery Network If you can dream it, you can do it. Distributed Systems Stay hungry, stay foolish. Security
 Cloud Functions Event-driven Architecture Artificial Intelligence I find that the harder I work, the more luck I seem to have. Database Multi-threading Kubernetes
 Serverless Cache Invalidation Security React Cloud Functions Neural Networks Message Queue Microservices NLP I find that the harder I work, the more luck I seem to have. Replica Set Work hard in silence, let your success be your noise. Docker Data Science Firewalls
+Cloud Data Science Parallel Processing Framework Predictive Analytics Testing Version Control JWT Serverless Artificial Intelligence Agile Deployment Edge Computing
