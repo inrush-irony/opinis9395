@@ -25,3 +25,4 @@ Event Sourcing Distributed Systems I find that the harder I work, the more luck 
 Monitoring Do what you love and the money will follow. Neural Networks Docker Database Indexing CI/CD Version Control
 Code Review Do what you love and the money will follow. Big Data Firewalls Simplicity is the ultimate sophistication. Automation Backend Success is how high you bounce when you hit bottom. Zero Downtime Deployment Lambda Functions A/B Testing
 Load Testing Predictive Analytics Edge Computing Latency Optimization Lambda Functions Data Science Scalability
+CI/CD Cloud Big Data Work hard in silence, let your success be your noise. Zero Downtime Deployment DevOps Dream big and dare to fail. Testing Monitoring

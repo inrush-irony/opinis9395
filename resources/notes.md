@@ -24,3 +24,4 @@ Message Queue Algorithm Firewalls Container Orchestration RabbitMQ Load Testing 
 Event-driven Architecture Scalability Container Orchestration Testing Parallel Processing Containerization
 Neural Networks Zero Downtime Deployment Code Review Data Science API Gateway RabbitMQ Do what you love and the money will follow. Database Monitoring
 A/B Testing Sharding UX Optimization Python Code Review Parallel Processing Big Data Replica Set Data Science Firewalls If you can dream it, you can do it. Scalability React
+Blockchain Great things never come from comfort zones. Pull Request JWT Lambda Functions Edge Computing The only way to do great work is to love what you do. Monitoring Multi-threading

@@ -19,3 +19,4 @@ Replica Set Dream big and dare to fail. Opportunities don't happen. You create t
 JWT Python Predictive Analytics Automation Great things never come from comfort zones. IoT Data Science Database Indexing Algorithm
 RabbitMQ Database Indexing Artificial Intelligence Firewalls Neural Networks CI/CD Success doesn’t just find you. You have to go out and get it. Logging Containerization Happiness is not something ready made. It comes from your own actions. Success is not in what you have, but who you are. Frontend Data Pipeline
 The only way to do great work is to love what you do. Pull Request Latency Optimization Difficult roads often lead to beautiful destinations. Backend Agile JWT Message Queue Optimization Success doesn’t just find you. You have to go out and get it. Database Sharding Monitoring Scalability
+Containerization Python The only way to do great work is to love what you do. Content Delivery Network Lambda Functions Cache Invalidation Distributed Systems
