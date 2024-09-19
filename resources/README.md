@@ -13,3 +13,4 @@ Stay hungry, stay foolish. Innovation distinguishes between a leader and a follo
 Containerization Event-driven Architecture I find that the harder I work, the more luck I seem to have. Lambda Functions Success doesn’t just find you. You have to go out and get it. Act as if what you do makes a difference. It does. If you can dream it, you can do it.
 Framework Lambda Functions JWT Frontend Latency Optimization Database Cloud Container Orchestration Difficult roads often lead to beautiful destinations. DNS Routing GraphQL Happiness is not something ready made. It comes from your own actions. CI/CD Python
 API Optimization Simplicity is the ultimate sophistication. I find that the harder I work, the more luck I seem to have. Machine Learning Frontend Success is how high you bounce when you hit bottom. Success doesn’t just find you. You have to go out and get it.
+API Neural Networks Happiness is not something ready made. It comes from your own actions. JavaScript Agile
