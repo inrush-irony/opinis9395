@@ -23,3 +23,4 @@ Edge Computing JavaScript Content Delivery Network Pull Request Data Pipeline A/
 Message Queue Algorithm Firewalls Container Orchestration RabbitMQ Load Testing Kafka OAuth API Gateway DevOps Automation Cache Invalidation Edge Computing
 Event-driven Architecture Scalability Container Orchestration Testing Parallel Processing Containerization
 Neural Networks Zero Downtime Deployment Code Review Data Science API Gateway RabbitMQ Do what you love and the money will follow. Database Monitoring
+A/B Testing Sharding UX Optimization Python Code Review Parallel Processing Big Data Replica Set Data Science Firewalls If you can dream it, you can do it. Scalability React
