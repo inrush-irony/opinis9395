@@ -22,3 +22,4 @@ Event-driven Architecture DevOps Security Testing Stay hungry, stay foolish. Dis
 Edge Computing JavaScript Content Delivery Network Pull Request Data Pipeline A/B Testing UX Optimization Database Indexing Replica Set Optimization Neural Networks Database Load Balancing Load Testing
 Message Queue Algorithm Firewalls Container Orchestration RabbitMQ Load Testing Kafka OAuth API Gateway DevOps Automation Cache Invalidation Edge Computing
 Event-driven Architecture Scalability Container Orchestration Testing Parallel Processing Containerization
+Neural Networks Zero Downtime Deployment Code Review Data Science API Gateway RabbitMQ Do what you love and the money will follow. Database Monitoring
