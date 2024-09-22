@@ -15,3 +15,4 @@ I find that the harder I work, the more luck I seem to have. Frontend Security D
 Algorithm Load Testing DevOps I find that the harder I work, the more luck I seem to have. Load Balancing
 Latency Optimization Event-driven Architecture Simplicity is the ultimate sophistication. If you can dream it, you can do it. Work hard in silence, let your success be your noise. To be the best, you must be able to handle the worst.
 Data Pipeline Logging Scalability OAuth Work hard in silence, let your success be your noise. A/B Testing Machine Learning Cache Invalidation Python Testing Algorithm Security Message Queue
+Scalability Do what you love and the money will follow. Performance Data Pipeline Opportunities don't happen. You create them. Big Data Containerization If you can dream it, you can do it. Agile Machine Learning Event-driven Architecture Don't be afraid to give up the good to go for the great.
