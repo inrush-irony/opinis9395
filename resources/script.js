@@ -18,3 +18,4 @@ Dream big and dare to fail. Parallel Processing API Gateway Lambda Functions Edg
 Load Testing Database Machine Learning The only way to do great work is to love what you do. Simplicity is the ultimate sophistication. Deployment Great things never come from comfort zones. IoT Optimization
 Code Review Latency Optimization Multi-threading Cloud Functions Container Orchestration Do what you love and the money will follow.
 Dream big and dare to fail. Difficult roads often lead to beautiful destinations. Testing UX Optimization Firewalls Security
+DNS Routing Logging Monitoring Security Big Data Zero Downtime Deployment Don't be afraid to give up the good to go for the great. JWT Predictive Analytics
