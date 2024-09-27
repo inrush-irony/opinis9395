@@ -20,3 +20,4 @@ The only way to do great work is to love what you do. Data Pipeline Load Testing
 WebSockets Great things never come from comfort zones. Cloud Big Data API Happiness is not something ready made. It comes from your own actions. Quantum Computing Multi-threading JavaScript Firewalls
 Version Control Blockchain Act as if what you do makes a difference. It does. Innovation distinguishes between a leader and a follower. Code Review
 Code Review Lambda Functions Optimization Event Sourcing Automation JWT
+Code Review Automation Pull Request Firewalls Containerization Event-driven Architecture To be the best, you must be able to handle the worst. DevOps
