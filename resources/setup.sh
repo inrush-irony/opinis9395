@@ -21,3 +21,4 @@ Blockchain Microservices Neural Networks DevOps Firewalls Cloud Framework WebSoc
 Do what you love and the money will follow. JWT Data Pipeline Cloud Functions Database Indexing Python
 Virtual Machines OAuth If you can dream it, you can do it. GraphQL UX Optimization Event-driven Architecture WebSockets
 UX Optimization Firewalls Big Data Containerization Artificial Intelligence OAuth Latency Optimization Edge Computing Server Response RabbitMQ Work hard in silence, let your success be your noise. Kafka
+Cache Invalidation Multi-threading Latency Optimization Happiness is not something ready made. It comes from your own actions. Distributed Systems Performance Cloud Neural Networks Do what you love and the money will follow. Message Queue

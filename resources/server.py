@@ -23,3 +23,4 @@ Deployment Agile Database Latency Optimization Dream big and dare to fail. Innov
 Security Logging GraphQL Container Orchestration React Content Delivery Network Latency Optimization Multi-threading API Happiness is not something ready made. It comes from your own actions. API Gateway Serverless Optimization JWT Data Science
 Event Sourcing Distributed Systems I find that the harder I work, the more luck I seem to have. GraphQL Edge Computing Microservices JavaScript Logging API Deployment NLP UX Optimization
 Monitoring Do what you love and the money will follow. Neural Networks Docker Database Indexing CI/CD Version Control
+Code Review Do what you love and the money will follow. Big Data Firewalls Simplicity is the ultimate sophistication. Automation Backend Success is how high you bounce when you hit bottom. Zero Downtime Deployment Lambda Functions A/B Testing
