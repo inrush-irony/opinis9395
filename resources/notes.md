@@ -21,3 +21,4 @@ DevOps Replica Set Performance API A/B Testing Container Orchestration Pull Requ
 Event-driven Architecture DevOps Security Testing Stay hungry, stay foolish. Distributed Systems Deployment Artificial Intelligence Difficult roads often lead to beautiful destinations. RabbitMQ
 Edge Computing JavaScript Content Delivery Network Pull Request Data Pipeline A/B Testing UX Optimization Database Indexing Replica Set Optimization Neural Networks Database Load Balancing Load Testing
 Message Queue Algorithm Firewalls Container Orchestration RabbitMQ Load Testing Kafka OAuth API Gateway DevOps Automation Cache Invalidation Edge Computing
+Event-driven Architecture Scalability Container Orchestration Testing Parallel Processing Containerization
