@@ -23,3 +23,4 @@ Version Control Logging Code Review I find that the harder I work, the more luck
 Data Science Database Indexing Zero Downtime Deployment NLP Stay hungry, stay foolish. DevOps Dream big and dare to fail. JWT Great things never come from comfort zones. Content Delivery Network Innovation distinguishes between a leader and a follower. Message Queue Logging
 Cloud Docker Code Review Logging Automation RabbitMQ Cloud Functions
 Container Orchestration Version Control Load Balancing Content Delivery Network If you can dream it, you can do it. Distributed Systems Stay hungry, stay foolish. Security
+Cloud Functions Event-driven Architecture Artificial Intelligence I find that the harder I work, the more luck I seem to have. Database Multi-threading Kubernetes
