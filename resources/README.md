@@ -11,3 +11,4 @@ Kafka Virtual Machines Database Indexing Innovation distinguishes between a lead
 Monitoring Artificial Intelligence UX Optimization Message Queue Logging Work hard in silence, let your success be your noise. Neural Networks Agile Data Pipeline Event-driven Architecture Microservices
 Stay hungry, stay foolish. Innovation distinguishes between a leader and a follower. Do what you love and the money will follow. Scalability Backend
 Containerization Event-driven Architecture I find that the harder I work, the more luck I seem to have. Lambda Functions Success doesn’t just find you. You have to go out and get it. Act as if what you do makes a difference. It does. If you can dream it, you can do it.
+Framework Lambda Functions JWT Frontend Latency Optimization Database Cloud Container Orchestration Difficult roads often lead to beautiful destinations. DNS Routing GraphQL Happiness is not something ready made. It comes from your own actions. CI/CD Python
