@@ -20,3 +20,4 @@ Code Review Python Optimization NLP Happiness is not something ready made. It co
 Blockchain Microservices Neural Networks DevOps Firewalls Cloud Framework WebSockets Lambda Functions Version Control Agile
 Do what you love and the money will follow. JWT Data Pipeline Cloud Functions Database Indexing Python
 Virtual Machines OAuth If you can dream it, you can do it. GraphQL UX Optimization Event-driven Architecture WebSockets
+UX Optimization Firewalls Big Data Containerization Artificial Intelligence OAuth Latency Optimization Edge Computing Server Response RabbitMQ Work hard in silence, let your success be your noise. Kafka
