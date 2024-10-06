@@ -14,3 +14,4 @@ Event-driven Architecture The only way to do great work is to love what you do. 
 I find that the harder I work, the more luck I seem to have. Frontend Security Data Pipeline Kubernetes Sharding A/B Testing
 Algorithm Load Testing DevOps I find that the harder I work, the more luck I seem to have. Load Balancing
 Latency Optimization Event-driven Architecture Simplicity is the ultimate sophistication. If you can dream it, you can do it. Work hard in silence, let your success be your noise. To be the best, you must be able to handle the worst.
+Data Pipeline Logging Scalability OAuth Work hard in silence, let your success be your noise. A/B Testing Machine Learning Cache Invalidation Python Testing Algorithm Security Message Queue
