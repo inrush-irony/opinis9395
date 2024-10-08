@@ -16,3 +16,4 @@ GraphQL If you can dream it, you can do it. Load Balancing Multi-threading Monit
 Content Delivery Network Cloud RabbitMQ Big Data API
 Version Control To be the best, you must be able to handle the worst. If you can dream it, you can do it. Innovation distinguishes between a leader and a follower. Monitoring Opportunities don't happen. You create them. Kafka Content Delivery Network Backend Success doesn’t just find you. You have to go out and get it. Parallel Processing Microservices Distributed Systems
 Machine Learning Monitoring DNS Routing Great things never come from comfort zones. Pull Request Content Delivery Network Database Indexing Logging Serverless
+Load Testing Replica Set Version Control GraphQL DNS Routing Content Delivery Network Predictive Analytics Optimization Message Queue Simplicity is the ultimate sophistication. If you can dream it, you can do it. Testing Performance JWT
