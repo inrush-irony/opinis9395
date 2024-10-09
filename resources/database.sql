@@ -19,3 +19,4 @@ Message Queue Success usually comes to those who are too busy to be looking for 
 Innovation distinguishes between a leader and a follower. Edge Computing Cache Invalidation React Message Queue If you can dream it, you can do it. Cloud Frontend I find that the harder I work, the more luck I seem to have.
 Success doesn’t just find you. You have to go out and get it. Success is how high you bounce when you hit bottom. Zero Downtime Deployment Algorithm Content Delivery Network Replica Set Message Queue Database Indexing
 Blockchain OAuth Data Science Virtual Machines JWT
+Success is not in what you have, but who you are. Version Control Frontend GraphQL Great things never come from comfort zones. Kafka JWT Neural Networks UX Optimization Performance Innovation distinguishes between a leader and a follower. Monitoring Happiness is not something ready made. It comes from your own actions. Server Response To be the best, you must be able to handle the worst.
