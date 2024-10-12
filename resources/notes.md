@@ -18,3 +18,4 @@ Container Orchestration Event Sourcing Work hard in silence, let your success be
 Data Pipeline Database Indexing Happiness is not something ready made. It comes from your own actions. Machine Learning Predictive Analytics Distributed Systems
 Lambda Functions WebSockets IoT Cloud Functions Version Control
 DevOps Replica Set Performance API A/B Testing Container Orchestration Pull Request API Gateway Content Delivery Network Success is not in what you have, but who you are. Work hard in silence, let your success be your noise. Load Testing Optimization Distributed Systems Don't be afraid to give up the good to go for the great.
+Event-driven Architecture DevOps Security Testing Stay hungry, stay foolish. Distributed Systems Deployment Artificial Intelligence Difficult roads often lead to beautiful destinations. RabbitMQ
