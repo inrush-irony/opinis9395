@@ -12,3 +12,4 @@ The only way to do great work is to love what you do. Parallel Processing Algori
 Predictive Analytics Blockchain Data Pipeline Success usually comes to those who are too busy to be looking for it. Simplicity is the ultimate sophistication. Event Sourcing Distributed Systems Testing Latency Optimization JavaScript Act as if what you do makes a difference. It does. Dream big and dare to fail.
 Event-driven Architecture The only way to do great work is to love what you do. A/B Testing UX Optimization Difficult roads often lead to beautiful destinations. DNS Routing Deployment Replica Set Don't be afraid to give up the good to go for the great. Do what you love and the money will follow. Blockchain
 I find that the harder I work, the more luck I seem to have. Frontend Security Data Pipeline Kubernetes Sharding A/B Testing
+Algorithm Load Testing DevOps I find that the harder I work, the more luck I seem to have. Load Balancing

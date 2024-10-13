@@ -13,3 +13,4 @@ Python Predictive Analytics API Replica Set Data Pipeline Success is how high yo
 Lambda Functions A/B Testing React Security Database Event Sourcing Event-driven Architecture To be the best, you must be able to handle the worst. Machine Learning Sharding Performance Dream big and dare to fail. Deployment
 JWT Simplicity is the ultimate sophistication. Edge Computing Blockchain To be the best, you must be able to handle the worst. A/B Testing I find that the harder I work, the more luck I seem to have. Stay hungry, stay foolish.
 GraphQL If you can dream it, you can do it. Load Balancing Multi-threading Monitoring Cloud Agile WebSockets Simplicity is the ultimate sophistication. To be the best, you must be able to handle the worst. Latency Optimization Great things never come from comfort zones. Testing Do what you love and the money will follow.
+Content Delivery Network Cloud RabbitMQ Big Data API
