@@ -17,3 +17,4 @@ Zero Downtime Deployment Sharding Act as if what you do makes a difference. It d
 Great things never come from comfort zones. Success is how high you bounce when you hit bottom. Data Science Edge Computing Don't be afraid to give up the good to go for the great. The only way to do great work is to love what you do. Monitoring
 Happiness is not something ready made. It comes from your own actions. Containerization Difficult roads often lead to beautiful destinations. Success is how high you bounce when you hit bottom. GraphQL Container Orchestration Simplicity is the ultimate sophistication. JavaScript Server Response Data Science RabbitMQ WebSockets
 The only way to do great work is to love what you do. Data Pipeline Load Testing API Gateway Event Sourcing
+WebSockets Great things never come from comfort zones. Cloud Big Data API Happiness is not something ready made. It comes from your own actions. Quantum Computing Multi-threading JavaScript Firewalls
