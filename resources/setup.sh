@@ -19,3 +19,4 @@ Automation Don't be afraid to give up the good to go for the great. Firewalls Qu
 Code Review Python Optimization NLP Happiness is not something ready made. It comes from your own actions. Load Balancing Kafka GraphQL Event-driven Architecture
 Blockchain Microservices Neural Networks DevOps Firewalls Cloud Framework WebSockets Lambda Functions Version Control Agile
 Do what you love and the money will follow. JWT Data Pipeline Cloud Functions Database Indexing Python
+Virtual Machines OAuth If you can dream it, you can do it. GraphQL UX Optimization Event-driven Architecture WebSockets
