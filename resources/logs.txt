@@ -16,3 +16,4 @@ Blockchain Message Queue Distributed Systems RabbitMQ Cache Invalidation IoT Loa
 GraphQL Distributed Systems Big Data Security DevOps Virtual Machines A/B Testing Frontend I find that the harder I work, the more luck I seem to have. Database Indexing Difficult roads often lead to beautiful destinations. Deployment Monitoring Container Orchestration
 Load Balancing Neural Networks UX Optimization Performance Latency Optimization Blockchain Load Testing Algorithm API Gateway Data Pipeline Success is not in what you have, but who you are. Big Data If you can dream it, you can do it.
 Performance Scalability API GraphQL Algorithm
+Big Data Opportunities don't happen. You create them. Data Science To be the best, you must be able to handle the worst. Performance GraphQL UX Optimization Machine Learning Code Review Load Balancing Python

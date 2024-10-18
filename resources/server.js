@@ -10,3 +10,4 @@ Serverless Load Balancing Success doesn’t just find you. You have to go out and 
 Code Review DevOps Container Orchestration Cloud Functions Simplicity is the ultimate sophistication. RabbitMQ
 GraphQL Framework API Gateway Agile Predictive Analytics Cloud Functions Latency Optimization Data Pipeline Docker CI/CD React
 Artificial Intelligence Database Indexing Zero Downtime Deployment Docker Monitoring Don't be afraid to give up the good to go for the great. Version Control A/B Testing API Innovation distinguishes between a leader and a follower. Cloud Content Delivery Network If you can dream it, you can do it. Load Balancing JWT
+Firewalls DNS Routing Kubernetes Difficult roads often lead to beautiful destinations. Success is how high you bounce when you hit bottom. WebSockets Algorithm Deployment Optimization Success usually comes to those who are too busy to be looking for it. Cloud
