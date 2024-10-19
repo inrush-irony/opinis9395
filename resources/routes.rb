@@ -16,3 +16,4 @@ Version Control Success usually comes to those who are too busy to be looking fo
 DevOps Framework Virtual Machines Load Balancing Simplicity is the ultimate sophistication. Deployment Distributed Systems Sharding Don't be afraid to give up the good to go for the great. Container Orchestration Agile JWT Edge Computing Difficult roads often lead to beautiful destinations. IoT
 Quantum Computing Don't be afraid to give up the good to go for the great. Content Delivery Network Python Monitoring
 Zero Downtime Deployment Framework Database Indexing If you can dream it, you can do it. Logging Performance Blockchain Dream big and dare to fail. React GraphQL CI/CD
+Difficult roads often lead to beautiful destinations. GraphQL Quantum Computing Logging Do what you love and the money will follow.

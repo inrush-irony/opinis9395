@@ -21,3 +21,4 @@ Cloud API Framework JWT Opportunities don't happen. You create them. Event Sourc
 JavaScript Python UX Optimization Success usually comes to those who are too busy to be looking for it. Cache Invalidation Event-driven Architecture
 Deployment Agile Database Latency Optimization Dream big and dare to fail. Innovation distinguishes between a leader and a follower. Security Difficult roads often lead to beautiful destinations.
 Security Logging GraphQL Container Orchestration React Content Delivery Network Latency Optimization Multi-threading API Happiness is not something ready made. It comes from your own actions. API Gateway Serverless Optimization JWT Data Science
+Event Sourcing Distributed Systems I find that the harder I work, the more luck I seem to have. GraphQL Edge Computing Microservices JavaScript Logging API Deployment NLP UX Optimization

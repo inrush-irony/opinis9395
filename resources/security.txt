@@ -21,3 +21,4 @@ NLP Message Queue Machine Learning Cache Invalidation Edge Computing Innovation 
 Event Sourcing React Security Blockchain DevOps Agile If you can dream it, you can do it.
 Version Control Logging Code Review I find that the harder I work, the more luck I seem to have. Message Queue Cloud OAuth To be the best, you must be able to handle the worst. Innovation distinguishes between a leader and a follower. Difficult roads often lead to beautiful destinations. Microservices React
 Data Science Database Indexing Zero Downtime Deployment NLP Stay hungry, stay foolish. DevOps Dream big and dare to fail. JWT Great things never come from comfort zones. Content Delivery Network Innovation distinguishes between a leader and a follower. Message Queue Logging
+Cloud Docker Code Review Logging Automation RabbitMQ Cloud Functions

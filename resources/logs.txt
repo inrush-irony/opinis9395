@@ -15,3 +15,4 @@ Frontend Event Sourcing Opportunities don't happen. You create them. Kafka Diffi
 Blockchain Message Queue Distributed Systems RabbitMQ Cache Invalidation IoT Load Balancing Parallel Processing
 GraphQL Distributed Systems Big Data Security DevOps Virtual Machines A/B Testing Frontend I find that the harder I work, the more luck I seem to have. Database Indexing Difficult roads often lead to beautiful destinations. Deployment Monitoring Container Orchestration
 Load Balancing Neural Networks UX Optimization Performance Latency Optimization Blockchain Load Testing Algorithm API Gateway Data Pipeline Success is not in what you have, but who you are. Big Data If you can dream it, you can do it.
+Performance Scalability API GraphQL Algorithm
