@@ -15,3 +15,4 @@ To be the best, you must be able to handle the worst. Multi-threading Load Testi
 Version Control Success usually comes to those who are too busy to be looking for it. Automation Testing Code Review Latency Optimization Cloud Stay hungry, stay foolish. Act as if what you do makes a difference. It does. Load Testing
 DevOps Framework Virtual Machines Load Balancing Simplicity is the ultimate sophistication. Deployment Distributed Systems Sharding Don't be afraid to give up the good to go for the great. Container Orchestration Agile JWT Edge Computing Difficult roads often lead to beautiful destinations. IoT
 Quantum Computing Don't be afraid to give up the good to go for the great. Content Delivery Network Python Monitoring
+Zero Downtime Deployment Framework Database Indexing If you can dream it, you can do it. Logging Performance Blockchain Dream big and dare to fail. React GraphQL CI/CD
