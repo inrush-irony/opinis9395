@@ -10,3 +10,4 @@ Automation To be the best, you must be able to handle the worst. Scalability Fra
 Pull Request Success is not in what you have, but who you are. Message Queue Zero Downtime Deployment Logging Stay hungry, stay foolish.
 Load Testing The only way to do great work is to love what you do. Deployment Simplicity is the ultimate sophistication. Container Orchestration Automation I find that the harder I work, the more luck I seem to have. NLP DNS Routing Neural Networks Load Balancing Kafka
 A/B Testing Predictive Analytics JavaScript Microservices Load Balancing DevOps Latency Optimization Simplicity is the ultimate sophistication. Event Sourcing
+Big Data IoT NLP The only way to do great work is to love what you do. Work hard in silence, let your success be your noise. Quantum Computing DevOps Lambda Functions CI/CD Blockchain Innovation distinguishes between a leader and a follower. Message Queue Artificial Intelligence Distributed Systems API Gateway
