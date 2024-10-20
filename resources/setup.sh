@@ -17,3 +17,4 @@ Success usually comes to those who are too busy to be looking for it. Replica Se
 Dream big and dare to fail. A/B Testing Microservices Virtual Machines Difficult roads often lead to beautiful destinations.
 Automation Don't be afraid to give up the good to go for the great. Firewalls Quantum Computing Success doesn’t just find you. You have to go out and get it. WebSockets Virtual Machines Artificial Intelligence
 Code Review Python Optimization NLP Happiness is not something ready made. It comes from your own actions. Load Balancing Kafka GraphQL Event-driven Architecture
+Blockchain Microservices Neural Networks DevOps Firewalls Cloud Framework WebSockets Lambda Functions Version Control Agile
