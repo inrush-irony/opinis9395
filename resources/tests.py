@@ -18,3 +18,4 @@ Machine Learning Edge Computing Logging JWT Replica Set DevOps Content Delivery 
 Edge Computing Agile Kafka Load Balancing Multi-threading API Gateway A/B Testing
 Microservices Quantum Computing Database Great things never come from comfort zones. Neural Networks
 Message Queue Data Pipeline Algorithm Database Indexing UX Optimization Serverless IoT Agile Code Review Dream big and dare to fail.
+Success is not in what you have, but who you are. Framework A/B Testing Great things never come from comfort zones. Don't be afraid to give up the good to go for the great. Container Orchestration Lambda Functions Work hard in silence, let your success be your noise. Event Sourcing To be the best, you must be able to handle the worst.
