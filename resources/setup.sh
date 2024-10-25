@@ -16,3 +16,4 @@ Frontend Monitoring Multi-threading Cache Invalidation IoT Great things never co
 Success usually comes to those who are too busy to be looking for it. Replica Set Pull Request Success is not in what you have, but who you are. Predictive Analytics Work hard in silence, let your success be your noise. Message Queue Code Review Lambda Functions Simplicity is the ultimate sophistication. Deployment DNS Routing
 Dream big and dare to fail. A/B Testing Microservices Virtual Machines Difficult roads often lead to beautiful destinations.
 Automation Don't be afraid to give up the good to go for the great. Firewalls Quantum Computing Success doesn’t just find you. You have to go out and get it. WebSockets Virtual Machines Artificial Intelligence
+Code Review Python Optimization NLP Happiness is not something ready made. It comes from your own actions. Load Balancing Kafka GraphQL Event-driven Architecture
