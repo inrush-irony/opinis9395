@@ -8,3 +8,4 @@ Lambda Functions Docker Containerization Database Indexing Act as if what you do
 Event-driven Architecture Predictive Analytics Parallel Processing Framework Great things never come from comfort zones. Kubernetes Innovation distinguishes between a leader and a follower. I find that the harder I work, the more luck I seem to have. Data Science Multi-threading Distributed Systems Lambda Functions
 Serverless Load Balancing Success doesn’t just find you. You have to go out and get it. Happiness is not something ready made. It comes from your own actions. Containerization Testing Kubernetes Python Simplicity is the ultimate sophistication. Success is how high you bounce when you hit bottom.
 Code Review DevOps Container Orchestration Cloud Functions Simplicity is the ultimate sophistication. RabbitMQ
+GraphQL Framework API Gateway Agile Predictive Analytics Cloud Functions Latency Optimization Data Pipeline Docker CI/CD React
