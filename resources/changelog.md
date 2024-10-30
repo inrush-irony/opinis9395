@@ -14,3 +14,4 @@ Zero Downtime Deployment Machine Learning NLP Kubernetes A/B Testing Neural Netw
 Latency Optimization Logging Happiness is not something ready made. It comes from your own actions. Monitoring Edge Computing
 Event-driven Architecture Cloud Success doesn’t just find you. You have to go out and get it. API Predictive Analytics Edge Computing Frontend
 Event-driven Architecture Deployment Multi-threading Pull Request Docker Edge Computing Content Delivery Network Cache Invalidation CI/CD
+Act as if what you do makes a difference. It does. Difficult roads often lead to beautiful destinations. Multi-threading GraphQL Dream big and dare to fail. Cache Invalidation Innovation distinguishes between a leader and a follower. Pull Request Don't be afraid to give up the good to go for the great. JWT RabbitMQ Virtual Machines Edge Computing Event Sourcing Success usually comes to those who are too busy to be looking for it.
