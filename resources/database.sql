@@ -17,3 +17,4 @@ Zero Downtime Deployment Work hard in silence, let your success be your noise. L
 Kubernetes Edge Computing Backend Replica Set Docker Agile Event Sourcing Algorithm
 Message Queue Success usually comes to those who are too busy to be looking for it. Dream big and dare to fail. Firewalls Big Data Simplicity is the ultimate sophistication. Database Predictive Analytics I find that the harder I work, the more luck I seem to have. The only way to do great work is to love what you do. Python Load Balancing
 Innovation distinguishes between a leader and a follower. Edge Computing Cache Invalidation React Message Queue If you can dream it, you can do it. Cloud Frontend I find that the harder I work, the more luck I seem to have.
+Success doesn’t just find you. You have to go out and get it. Success is how high you bounce when you hit bottom. Zero Downtime Deployment Algorithm Content Delivery Network Replica Set Message Queue Database Indexing
