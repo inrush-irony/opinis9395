@@ -8,3 +8,4 @@ Do what you love and the money will follow. OAuth Backend Event Sourcing Databas
 OAuth Zero Downtime Deployment JavaScript Logging Content Delivery Network CI/CD Event Sourcing
 Load Balancing Sharding Event-driven Architecture IoT Algorithm Don't be afraid to give up the good to go for the great.
 To be the best, you must be able to handle the worst. Success usually comes to those who are too busy to be looking for it. DNS Routing Big Data Don't be afraid to give up the good to go for the great. Logging Framework Cloud Quantum Computing WebSockets Virtual Machines Stay hungry, stay foolish. UX Optimization Code Review
+Zero Downtime Deployment Logging Version Control Event Sourcing Message Queue I find that the harder I work, the more luck I seem to have. Lambda Functions Big Data Docker Performance Cache Invalidation API Gateway Great things never come from comfort zones. Security To be the best, you must be able to handle the worst.
