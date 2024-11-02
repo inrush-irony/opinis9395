@@ -10,3 +10,4 @@ Performance IoT Happiness is not something ready made. It comes from your own ac
 Kafka Virtual Machines Database Indexing Innovation distinguishes between a leader and a follower. Performance Load Testing Code Review API Gateway Event Sourcing Success is how high you bounce when you hit bottom. Serverless Cloud Content Delivery Network
 Monitoring Artificial Intelligence UX Optimization Message Queue Logging Work hard in silence, let your success be your noise. Neural Networks Agile Data Pipeline Event-driven Architecture Microservices
 Stay hungry, stay foolish. Innovation distinguishes between a leader and a follower. Do what you love and the money will follow. Scalability Backend
+Containerization Event-driven Architecture I find that the harder I work, the more luck I seem to have. Lambda Functions Success doesn’t just find you. You have to go out and get it. Act as if what you do makes a difference. It does. If you can dream it, you can do it.

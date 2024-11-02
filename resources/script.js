@@ -15,3 +15,4 @@ Data Pipeline OAuth Replica Set Performance Message Queue Don't be afraid to giv
 Event-driven Architecture API Gateway RabbitMQ Monitoring Server Response Scalability Load Testing Version Control
 Virtual Machines Containerization Cloud Kafka Success is how high you bounce when you hit bottom.
 Dream big and dare to fail. Parallel Processing API Gateway Lambda Functions Edge Computing Version Control Logging Server Response
+Load Testing Database Machine Learning The only way to do great work is to love what you do. Simplicity is the ultimate sophistication. Deployment Great things never come from comfort zones. IoT Optimization
