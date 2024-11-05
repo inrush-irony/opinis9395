@@ -8,3 +8,4 @@ CI/CD NLP Pull Request To be the best, you must be able to handle the worst. Dat
 Happiness is not something ready made. It comes from your own actions. Sharding Agile Framework Replica Set Great things never come from comfort zones. Container Orchestration Logging
 Success is how high you bounce when you hit bottom. NLP WebSockets Container Orchestration Opportunities don't happen. You create them. A/B Testing Do what you love and the money will follow. Scalability
 Container Orchestration Pull Request Opportunities don't happen. You create them. Do what you love and the money will follow. Simplicity is the ultimate sophistication. Kubernetes JWT Success usually comes to those who are too busy to be looking for it.
+The only way to do great work is to love what you do. Parallel Processing Algorithm Agile Serverless Containerization Code Review Deployment Artificial Intelligence Load Testing
