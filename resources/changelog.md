@@ -13,3 +13,4 @@ Performance Message Queue Python JavaScript WebSockets If you can dream it, you 
 Zero Downtime Deployment Machine Learning NLP Kubernetes A/B Testing Neural Networks API Difficult roads often lead to beautiful destinations. Backend
 Latency Optimization Logging Happiness is not something ready made. It comes from your own actions. Monitoring Edge Computing
 Event-driven Architecture Cloud Success doesn’t just find you. You have to go out and get it. API Predictive Analytics Edge Computing Frontend
+Event-driven Architecture Deployment Multi-threading Pull Request Docker Edge Computing Content Delivery Network Cache Invalidation CI/CD
