@@ -12,3 +12,4 @@ Machine Learning Security Work hard in silence, let your success be your noise. 
 Performance Message Queue Python JavaScript WebSockets If you can dream it, you can do it. Parallel Processing Cloud
 Zero Downtime Deployment Machine Learning NLP Kubernetes A/B Testing Neural Networks API Difficult roads often lead to beautiful destinations. Backend
 Latency Optimization Logging Happiness is not something ready made. It comes from your own actions. Monitoring Edge Computing
+Event-driven Architecture Cloud Success doesn’t just find you. You have to go out and get it. API Predictive Analytics Edge Computing Frontend
