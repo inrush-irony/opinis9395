@@ -13,3 +13,4 @@ Multi-threading Zero Downtime Deployment Data Science Latency Optimization Cloud
 Replica Set Frontend DNS Routing Parallel Processing Cloud Functions Monitoring IoT OAuth Difficult roads often lead to beautiful destinations. Cache Invalidation Python
 Serverless Lambda Functions Multi-threading Neural Networks Work hard in silence, let your success be your noise. Machine Learning Distributed Systems Database Indexing Backend
 A/B Testing Python Dream big and dare to fail. Optimization Event Sourcing Don't be afraid to give up the good to go for the great. Artificial Intelligence Frontend Containerization Firewalls Predictive Analytics Message Queue Event-driven Architecture
+CI/CD Scalability A/B Testing Content Delivery Network Event Sourcing Testing I find that the harder I work, the more luck I seem to have. Agile
