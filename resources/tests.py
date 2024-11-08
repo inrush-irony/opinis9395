@@ -17,3 +17,4 @@ Success usually comes to those who are too busy to be looking for it. Success do
 Machine Learning Edge Computing Logging JWT Replica Set DevOps Content Delivery Network API Gateway Pull Request Security Cloud Predictive Analytics Kubernetes JavaScript
 Edge Computing Agile Kafka Load Balancing Multi-threading API Gateway A/B Testing
 Microservices Quantum Computing Database Great things never come from comfort zones. Neural Networks
+Message Queue Data Pipeline Algorithm Database Indexing UX Optimization Serverless IoT Agile Code Review Dream big and dare to fail.
