@@ -11,3 +11,4 @@ Machine Learning DevOps Code Review JWT Parallel Processing Don't be afraid to g
 Success doesn’t just find you. You have to go out and get it. JWT Database Indexing If you can dream it, you can do it. Docker Cache Invalidation API Cloud Functions Great things never come from comfort zones.
 Version Control Server Response Event-driven Architecture Kubernetes Happiness is not something ready made. It comes from your own actions.
 Innovation distinguishes between a leader and a follower. Replica Set DevOps Container Orchestration Firewalls Cloud Do what you love and the money will follow.
+Success usually comes to those who are too busy to be looking for it. Do what you love and the money will follow. Opportunities don't happen. You create them. Data Pipeline Scalability Testing I find that the harder I work, the more luck I seem to have.

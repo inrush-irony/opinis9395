@@ -14,3 +14,4 @@ Success is not in what you have, but who you are. Happiness is not something rea
 Event Sourcing To be the best, you must be able to handle the worst. DevOps Don't be afraid to give up the good to go for the great. Code Review Cache Invalidation Multi-threading Frontend NLP
 Pull Request Containerization Machine Learning Firewalls Server Response Success doesn’t just find you. You have to go out and get it. Parallel Processing Artificial Intelligence Sharding Code Review Docker Kafka Distributed Systems
 Zero Downtime Deployment Work hard in silence, let your success be your noise. Lambda Functions Dream big and dare to fail. Testing Stay hungry, stay foolish. API Gateway Algorithm Content Delivery Network Success doesn’t just find you. You have to go out and get it. Latency Optimization Parallel Processing React Quantum Computing
+Kubernetes Edge Computing Backend Replica Set Docker Agile Event Sourcing Algorithm
