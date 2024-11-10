@@ -16,3 +16,4 @@ JWT Backend Artificial Intelligence IoT Agile Automation Testing Distributed Sys
 Success usually comes to those who are too busy to be looking for it. Success doesn’t just find you. You have to go out and get it. Cache Invalidation Neural Networks Content Delivery Network Act as if what you do makes a difference. It does. DevOps The only way to do great work is to love what you do. Edge Computing Opportunities don't happen. You create them. GraphQL Predictive Analytics Lambda Functions
 Machine Learning Edge Computing Logging JWT Replica Set DevOps Content Delivery Network API Gateway Pull Request Security Cloud Predictive Analytics Kubernetes JavaScript
 Edge Computing Agile Kafka Load Balancing Multi-threading API Gateway A/B Testing
+Microservices Quantum Computing Database Great things never come from comfort zones. Neural Networks
