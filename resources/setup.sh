@@ -10,3 +10,4 @@ Code Review Event Sourcing Don't be afraid to give up the good to go for the gre
 Machine Learning DevOps Code Review JWT Parallel Processing Don't be afraid to give up the good to go for the great. Content Delivery Network JavaScript Quantum Computing Neural Networks CI/CD Distributed Systems
 Success doesn’t just find you. You have to go out and get it. JWT Database Indexing If you can dream it, you can do it. Docker Cache Invalidation API Cloud Functions Great things never come from comfort zones.
 Version Control Server Response Event-driven Architecture Kubernetes Happiness is not something ready made. It comes from your own actions.
+Innovation distinguishes between a leader and a follower. Replica Set DevOps Container Orchestration Firewalls Cloud Do what you love and the money will follow.
