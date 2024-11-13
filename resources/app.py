@@ -18,3 +18,4 @@ Logging Don't be afraid to give up the good to go for the great. Opportunities d
 Optimization Server Response Success is not in what you have, but who you are. Load Testing Don't be afraid to give up the good to go for the great.
 Code Review Work hard in silence, let your success be your noise. Docker Replica Set Message Queue
 Deployment Lambda Functions Zero Downtime Deployment Database Indexing Message Queue Server Response Cache Invalidation
+GraphQL Cache Invalidation Monitoring Automation Edge Computing Stay hungry, stay foolish. JWT Quantum Computing If you can dream it, you can do it. Innovation distinguishes between a leader and a follower. Neural Networks Don't be afraid to give up the good to go for the great. Happiness is not something ready made. It comes from your own actions. WebSockets
