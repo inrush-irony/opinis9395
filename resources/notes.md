@@ -12,3 +12,4 @@ Distributed Systems Load Balancing DNS Routing Cloud Success doesn’t just find y
 Multi-threading Zero Downtime Deployment Data Science Latency Optimization Cloud Functions RabbitMQ Load Balancing Automation Python Server Response Code Review Containerization Database Simplicity is the ultimate sophistication.
 Replica Set Frontend DNS Routing Parallel Processing Cloud Functions Monitoring IoT OAuth Difficult roads often lead to beautiful destinations. Cache Invalidation Python
 Serverless Lambda Functions Multi-threading Neural Networks Work hard in silence, let your success be your noise. Machine Learning Distributed Systems Database Indexing Backend
+A/B Testing Python Dream big and dare to fail. Optimization Event Sourcing Don't be afraid to give up the good to go for the great. Artificial Intelligence Frontend Containerization Firewalls Predictive Analytics Message Queue Event-driven Architecture
