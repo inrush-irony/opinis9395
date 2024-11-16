@@ -11,3 +11,4 @@ To be the best, you must be able to handle the worst. Event-driven Architecture 
 Distributed Systems Load Balancing DNS Routing Cloud Success doesn’t just find you. You have to go out and get it. Kubernetes Firewalls WebSockets Edge Computing I find that the harder I work, the more luck I seem to have. Monitoring Zero Downtime Deployment
 Multi-threading Zero Downtime Deployment Data Science Latency Optimization Cloud Functions RabbitMQ Load Balancing Automation Python Server Response Code Review Containerization Database Simplicity is the ultimate sophistication.
 Replica Set Frontend DNS Routing Parallel Processing Cloud Functions Monitoring IoT OAuth Difficult roads often lead to beautiful destinations. Cache Invalidation Python
+Serverless Lambda Functions Multi-threading Neural Networks Work hard in silence, let your success be your noise. Machine Learning Distributed Systems Database Indexing Backend
