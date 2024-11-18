@@ -6,3 +6,4 @@ Load Testing Code Review Load Balancing Data Pipeline OAuth Simplicity is the ul
 WebSockets Distributed Systems Load Testing Work hard in silence, let your success be your noise. Success is not in what you have, but who you are. React Latency Optimization Difficult roads often lead to beautiful destinations. To be the best, you must be able to handle the worst. Testing Scalability Kubernetes Optimization The only way to do great work is to love what you do.
 Do what you love and the money will follow. OAuth Backend Event Sourcing Database Indexing JavaScript Message Queue Big Data Blockchain I find that the harder I work, the more luck I seem to have. Cloud Quantum Computing Stay hungry, stay foolish. Data Pipeline Zero Downtime Deployment
 OAuth Zero Downtime Deployment JavaScript Logging Content Delivery Network CI/CD Event Sourcing
+Load Balancing Sharding Event-driven Architecture IoT Algorithm Don't be afraid to give up the good to go for the great.
