@@ -14,3 +14,4 @@ CI/CD Quantum Computing Zero Downtime Deployment Parallel Processing GraphQL Fra
 Data Pipeline OAuth Replica Set Performance Message Queue Don't be afraid to give up the good to go for the great.
 Event-driven Architecture API Gateway RabbitMQ Monitoring Server Response Scalability Load Testing Version Control
 Virtual Machines Containerization Cloud Kafka Success is how high you bounce when you hit bottom.
+Dream big and dare to fail. Parallel Processing API Gateway Lambda Functions Edge Computing Version Control Logging Server Response
