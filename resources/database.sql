@@ -12,3 +12,4 @@ Data Science DNS Routing Load Balancing IoT Testing Great things never come from
 Neural Networks CI/CD Big Data Framework Quantum Computing Database
 Success is not in what you have, but who you are. Happiness is not something ready made. It comes from your own actions. Simplicity is the ultimate sophistication. JWT Security Data Pipeline Database Database Indexing Great things never come from comfort zones. Python
 Event Sourcing To be the best, you must be able to handle the worst. DevOps Don't be afraid to give up the good to go for the great. Code Review Cache Invalidation Multi-threading Frontend NLP
+Pull Request Containerization Machine Learning Firewalls Server Response Success doesn’t just find you. You have to go out and get it. Parallel Processing Artificial Intelligence Sharding Code Review Docker Kafka Distributed Systems
