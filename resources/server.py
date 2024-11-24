@@ -19,3 +19,4 @@ Work hard in silence, let your success be your noise. A/B Testing Innovation dis
 DevOps Neural Networks JavaScript API Firewalls Event Sourcing Success doesn’t just find you. You have to go out and get it. GraphQL Message Queue Logging Content Delivery Network Dream big and dare to fail.
 Cloud API Framework JWT Opportunities don't happen. You create them. Event Sourcing Work hard in silence, let your success be your noise. Success usually comes to those who are too busy to be looking for it. Happiness is not something ready made. It comes from your own actions. Distributed Systems API Gateway
 JavaScript Python UX Optimization Success usually comes to those who are too busy to be looking for it. Cache Invalidation Event-driven Architecture
+Deployment Agile Database Latency Optimization Dream big and dare to fail. Innovation distinguishes between a leader and a follower. Security Difficult roads often lead to beautiful destinations.
