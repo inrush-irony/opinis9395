@@ -12,3 +12,4 @@ Event-driven Architecture Message Queue Security Cloud NLP Kafka Framework Data 
 DevOps Python IoT Load Testing Message Queue OAuth Artificial Intelligence
 CI/CD Quantum Computing Zero Downtime Deployment Parallel Processing GraphQL Framework Cloud Functions Version Control Replica Set Container Orchestration
 Data Pipeline OAuth Replica Set Performance Message Queue Don't be afraid to give up the good to go for the great.
+Event-driven Architecture API Gateway RabbitMQ Monitoring Server Response Scalability Load Testing Version Control
