@@ -13,3 +13,4 @@ DNS Routing React Predictive Analytics Framework Work hard in silence, let your 
 Database Indexing Cloud Functions RabbitMQ Machine Learning UX Optimization If you can dream it, you can do it. Do what you love and the money will follow.
 Container Orchestration Data Pipeline Cloud Data Science Success usually comes to those who are too busy to be looking for it. Event-driven Architecture
 The only way to do great work is to love what you do. Load Balancing Kafka Simplicity is the ultimate sophistication. Cloud NLP Sharding Zero Downtime Deployment Event Sourcing Microservices Great things never come from comfort zones. Blockchain Monitoring Database Indexing Neural Networks
+Machine Learning Python Microservices RabbitMQ Optimization Content Delivery Network Testing GraphQL Monitoring Great things never come from comfort zones. Success doesn’t just find you. You have to go out and get it. Code Review Latency Optimization
