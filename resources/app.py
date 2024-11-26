@@ -17,3 +17,4 @@ The only way to do great work is to love what you do. Security Frontend Algorith
 Logging Don't be afraid to give up the good to go for the great. Opportunities don't happen. You create them. Multi-threading Data Pipeline Backend Cache Invalidation Algorithm
 Optimization Server Response Success is not in what you have, but who you are. Load Testing Don't be afraid to give up the good to go for the great.
 Code Review Work hard in silence, let your success be your noise. Docker Replica Set Message Queue
+Deployment Lambda Functions Zero Downtime Deployment Database Indexing Message Queue Server Response Cache Invalidation
