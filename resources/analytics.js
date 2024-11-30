@@ -9,3 +9,4 @@ Version Control Success doesn’t just find you. You have to go out and get it. Qu
 Distributed Systems IoT Framework Great things never come from comfort zones. Data Science Firewalls Blockchain Load Balancing The only way to do great work is to love what you do. Success is how high you bounce when you hit bottom. GraphQL Dream big and dare to fail.
 Frontend WebSockets Optimization RabbitMQ Multi-threading React Blockchain To be the best, you must be able to handle the worst. Database Indexing Cache Invalidation
 Python Agile Automation Database Indexing Logging Serverless Simplicity is the ultimate sophistication.
+Content Delivery Network Difficult roads often lead to beautiful destinations. Predictive Analytics Frontend Optimization Act as if what you do makes a difference. It does. UX Optimization The only way to do great work is to love what you do. Cache Invalidation Containerization
