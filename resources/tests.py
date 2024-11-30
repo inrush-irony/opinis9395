@@ -12,3 +12,4 @@ Kubernetes Success is how high you bounce when you hit bottom. A/B Testing Perfo
 Scalability Cloud Functions Work hard in silence, let your success be your noise. Sharding NLP
 Database Work hard in silence, let your success be your noise. Lambda Functions RabbitMQ Scalability Algorithm React Latency Optimization API Gateway The only way to do great work is to love what you do.
 WebSockets Algorithm Distributed Systems Database Indexing NLP Big Data Dream big and dare to fail. Agile Automation If you can dream it, you can do it. Sharding Framework
+JWT Backend Artificial Intelligence IoT Agile Automation Testing Distributed Systems Difficult roads often lead to beautiful destinations. Scalability Cache Invalidation Database
