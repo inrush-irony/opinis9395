@@ -8,3 +8,4 @@ A/B Testing Do what you love and the money will follow. Virtual Machines OAuth M
 Version Control Success doesn’t just find you. You have to go out and get it. Quantum Computing Testing IoT Cache Invalidation Pull Request Don't be afraid to give up the good to go for the great. Predictive Analytics Success is not in what you have, but who you are.
 Distributed Systems IoT Framework Great things never come from comfort zones. Data Science Firewalls Blockchain Load Balancing The only way to do great work is to love what you do. Success is how high you bounce when you hit bottom. GraphQL Dream big and dare to fail.
 Frontend WebSockets Optimization RabbitMQ Multi-threading React Blockchain To be the best, you must be able to handle the worst. Database Indexing Cache Invalidation
+Python Agile Automation Database Indexing Logging Serverless Simplicity is the ultimate sophistication.
