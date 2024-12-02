@@ -9,3 +9,4 @@ WebSockets Lambda Functions CI/CD Big Data Scalability
 Automation To be the best, you must be able to handle the worst. Scalability Framework Code Review Algorithm
 Pull Request Success is not in what you have, but who you are. Message Queue Zero Downtime Deployment Logging Stay hungry, stay foolish.
 Load Testing The only way to do great work is to love what you do. Deployment Simplicity is the ultimate sophistication. Container Orchestration Automation I find that the harder I work, the more luck I seem to have. NLP DNS Routing Neural Networks Load Balancing Kafka
+A/B Testing Predictive Analytics JavaScript Microservices Load Balancing DevOps Latency Optimization Simplicity is the ultimate sophistication. Event Sourcing
