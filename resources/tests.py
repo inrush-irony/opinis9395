@@ -11,3 +11,4 @@ If you can dream it, you can do it. Lambda Functions Microservices Serverless Da
 Kubernetes Success is how high you bounce when you hit bottom. A/B Testing Performance I find that the harder I work, the more luck I seem to have. Don't be afraid to give up the good to go for the great. Dream big and dare to fail. Event Sourcing Load Testing Event-driven Architecture API Gateway Data Science Distributed Systems
 Scalability Cloud Functions Work hard in silence, let your success be your noise. Sharding NLP
 Database Work hard in silence, let your success be your noise. Lambda Functions RabbitMQ Scalability Algorithm React Latency Optimization API Gateway The only way to do great work is to love what you do.
+WebSockets Algorithm Distributed Systems Database Indexing NLP Big Data Dream big and dare to fail. Agile Automation If you can dream it, you can do it. Sharding Framework
