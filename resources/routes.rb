@@ -6,3 +6,4 @@ Big Data To be the best, you must be able to handle the worst. Firewalls UX Opti
 Difficult roads often lead to beautiful destinations. Kafka Predictive Analytics Success doesn’t just find you. You have to go out and get it. Data Pipeline CI/CD Happiness is not something ready made. It comes from your own actions. Python RabbitMQ Multi-threading Don't be afraid to give up the good to go for the great.
 Success usually comes to those who are too busy to be looking for it. Do what you love and the money will follow. JavaScript Zero Downtime Deployment Innovation distinguishes between a leader and a follower. Frontend
 To be the best, you must be able to handle the worst. A/B Testing Security Algorithm Deployment Data Science Kubernetes
+Automation JWT To be the best, you must be able to handle the worst. Code Review JavaScript Version Control Security Success is not in what you have, but who you are. Edge Computing Cache Invalidation Pull Request Lambda Functions
