@@ -6,3 +6,4 @@ Parallel Processing OAuth Cloud Functions Simplicity is the ultimate sophisticat
 Success doesn’t just find you. You have to go out and get it. JavaScript Quantum Computing Cloud Kafka DevOps Agile Cloud Functions API Message Queue Load Balancing UX Optimization
 Event Sourcing CI/CD Neural Networks Big Data Monitoring Parallel Processing Performance Optimization Data Pipeline
 NLP Database Indexing Difficult roads often lead to beautiful destinations. Pull Request Cache Invalidation
+Code Review Event Sourcing Don't be afraid to give up the good to go for the great. Data Science If you can dream it, you can do it. Firewalls Deployment Difficult roads often lead to beautiful destinations. Act as if what you do makes a difference. It does. WebSockets The only way to do great work is to love what you do.
