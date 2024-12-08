@@ -11,3 +11,4 @@ Quantum Computing Success doesn’t just find you. You have to go out and get it. 
 To be the best, you must be able to handle the worst. Distributed Systems I find that the harder I work, the more luck I seem to have. Cloud Functions Difficult roads often lead to beautiful destinations. Code Review Virtual Machines
 DNS Routing React Predictive Analytics Framework Work hard in silence, let your success be your noise. Algorithm If you can dream it, you can do it. Difficult roads often lead to beautiful destinations. JWT Container Orchestration Kubernetes Success usually comes to those who are too busy to be looking for it. Data Pipeline Containerization
 Database Indexing Cloud Functions RabbitMQ Machine Learning UX Optimization If you can dream it, you can do it. Do what you love and the money will follow.
+Container Orchestration Data Pipeline Cloud Data Science Success usually comes to those who are too busy to be looking for it. Event-driven Architecture

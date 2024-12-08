@@ -9,3 +9,4 @@ Container Orchestration Distributed Systems The only way to do great work is to 
 Security DNS Routing Kafka Scalability Happiness is not something ready made. It comes from your own actions. Logging Container Orchestration Multi-threading Message Queue Neural Networks
 If you can dream it, you can do it. Lambda Functions Microservices Serverless Database Indexing Happiness is not something ready made. It comes from your own actions. Frontend Artificial Intelligence NLP Event-driven Architecture UX Optimization
 Kubernetes Success is how high you bounce when you hit bottom. A/B Testing Performance I find that the harder I work, the more luck I seem to have. Don't be afraid to give up the good to go for the great. Dream big and dare to fail. Event Sourcing Load Testing Event-driven Architecture API Gateway Data Science Distributed Systems
+Scalability Cloud Functions Work hard in silence, let your success be your noise. Sharding NLP
