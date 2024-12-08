@@ -7,3 +7,4 @@ Docker Cloud Functions Optimization Message Queue Containerization Monitoring Do
 Version Control Scalability Do what you love and the money will follow. Automation Don't be afraid to give up the good to go for the great. Algorithm Data Pipeline
 Neural Networks Machine Learning Event Sourcing Virtual Machines IoT Optimization Event-driven Architecture JavaScript Database Indexing UX Optimization NLP Simplicity is the ultimate sophistication. Data Pipeline
 Performance IoT Happiness is not something ready made. It comes from your own actions. Predictive Analytics Testing Success is how high you bounce when you hit bottom.
+Kafka Virtual Machines Database Indexing Innovation distinguishes between a leader and a follower. Performance Load Testing Code Review API Gateway Event Sourcing Success is how high you bounce when you hit bottom. Serverless Cloud Content Delivery Network
