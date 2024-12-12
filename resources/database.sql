@@ -10,3 +10,4 @@ Innovation distinguishes between a leader and a follower. Simplicity is the ulti
 Cloud Functions UX Optimization Great things never come from comfort zones. Predictive Analytics A/B Testing Do what you love and the money will follow. Agile Testing
 Data Science DNS Routing Load Balancing IoT Testing Great things never come from comfort zones. Data Pipeline Cloud Cache Invalidation
 Neural Networks CI/CD Big Data Framework Quantum Computing Database
+Success is not in what you have, but who you are. Happiness is not something ready made. It comes from your own actions. Simplicity is the ultimate sophistication. JWT Security Data Pipeline Database Database Indexing Great things never come from comfort zones. Python
