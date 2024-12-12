@@ -4,3 +4,4 @@ Dream big and dare to fail. If you can dream it, you can do it. Version Control 
 Firewalls OAuth Docker To be the best, you must be able to handle the worst. Content Delivery Network Success doesn’t just find you. You have to go out and get it. Big Data
 OAuth Kafka The only way to do great work is to love what you do. Dream big and dare to fail. Cloud Machine Learning Quantum Computing GraphQL To be the best, you must be able to handle the worst. CI/CD
 Distributed Systems A/B Testing Zero Downtime Deployment RabbitMQ Serverless
+Lambda Functions Docker Containerization Database Indexing Act as if what you do makes a difference. It does. A/B Testing Machine Learning Dream big and dare to fail. Pull Request Success doesn’t just find you. You have to go out and get it. WebSockets Security Replica Set GraphQL
