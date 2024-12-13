@@ -14,3 +14,4 @@ Version Control Innovation distinguishes between a leader and a follower. Data S
 Kafka Replica Set The only way to do great work is to love what you do. Machine Learning Automation
 Pull Request DevOps Microservices Sharding GraphQL
 The only way to do great work is to love what you do. Security Frontend Algorithm Firewalls If you can dream it, you can do it. Success is how high you bounce when you hit bottom. Quantum Computing Success doesn’t just find you. You have to go out and get it.
+Logging Don't be afraid to give up the good to go for the great. Opportunities don't happen. You create them. Multi-threading Data Pipeline Backend Cache Invalidation Algorithm
