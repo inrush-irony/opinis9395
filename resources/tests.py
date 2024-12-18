@@ -7,3 +7,4 @@ If you can dream it, you can do it. Success is how high you bounce when you hit 
 Replica Set Security Deployment Difficult roads often lead to beautiful destinations. Message Queue Firewalls WebSockets
 Container Orchestration Distributed Systems The only way to do great work is to love what you do. Cloud Firewalls Load Testing Great things never come from comfort zones. Kafka Framework GraphQL Deployment
 Security DNS Routing Kafka Scalability Happiness is not something ready made. It comes from your own actions. Logging Container Orchestration Multi-threading Message Queue Neural Networks
+If you can dream it, you can do it. Lambda Functions Microservices Serverless Database Indexing Happiness is not something ready made. It comes from your own actions. Frontend Artificial Intelligence NLP Event-driven Architecture UX Optimization
