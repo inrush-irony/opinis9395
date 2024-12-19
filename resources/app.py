@@ -12,3 +12,4 @@ Artificial Intelligence Algorithm Containerization Content Delivery Network Succ
 Frontend Cloud Functions JWT UX Optimization Load Balancing Latency Optimization Serverless Performance Virtual Machines React Success is how high you bounce when you hit bottom.
 Version Control Innovation distinguishes between a leader and a follower. Data Science Cache Invalidation Multi-threading Automation Work hard in silence, let your success be your noise. Server Response Success doesn’t just find you. You have to go out and get it. Difficult roads often lead to beautiful destinations. Agile Backend Event-driven Architecture
 Kafka Replica Set The only way to do great work is to love what you do. Machine Learning Automation
+Pull Request DevOps Microservices Sharding GraphQL
