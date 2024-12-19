@@ -4,3 +4,4 @@ Big Data Zero Downtime Deployment NLP DevOps Cloud Functions I find that the har
 Automation IoT Database Indexing Content Delivery Network Server Response Event-driven Architecture Big Data Containerization Cache Invalidation UX Optimization RabbitMQ
 Parallel Processing OAuth Cloud Functions Simplicity is the ultimate sophistication. Performance Machine Learning Optimization WebSockets Lambda Functions Virtual Machines Work hard in silence, let your success be your noise. Backend
 Success doesn’t just find you. You have to go out and get it. JavaScript Quantum Computing Cloud Kafka DevOps Agile Cloud Functions API Message Queue Load Balancing UX Optimization
+Event Sourcing CI/CD Neural Networks Big Data Monitoring Parallel Processing Performance Optimization Data Pipeline
