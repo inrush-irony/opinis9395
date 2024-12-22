@@ -13,3 +13,4 @@ Cache Invalidation Distributed Systems Zero Downtime Deployment Act as if what y
 Zero Downtime Deployment Microservices Virtual Machines Blockchain Firewalls Cloud Functions Machine Learning GraphQL Opportunities don't happen. You create them. Lambda Functions
 Docker Dream big and dare to fail. Distributed Systems A/B Testing Do what you love and the money will follow. Parallel Processing Performance Load Balancing
 Predictive Analytics Version Control JWT Load Testing Kafka Neural Networks GraphQL Distributed Systems Microservices Automation
+Sharding If you can dream it, you can do it. Machine Learning Great things never come from comfort zones. Work hard in silence, let your success be your noise. Framework Event-driven Architecture Content Delivery Network Don't be afraid to give up the good to go for the great. Container Orchestration Distributed Systems Performance GraphQL Do what you love and the money will follow. Automation
