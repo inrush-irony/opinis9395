@@ -12,3 +12,4 @@ Content Delivery Network DevOps Event Sourcing Simplicity is the ultimate sophis
 Cache Invalidation Distributed Systems Zero Downtime Deployment Act as if what you do makes a difference. It does. Frontend
 Zero Downtime Deployment Microservices Virtual Machines Blockchain Firewalls Cloud Functions Machine Learning GraphQL Opportunities don't happen. You create them. Lambda Functions
 Docker Dream big and dare to fail. Distributed Systems A/B Testing Do what you love and the money will follow. Parallel Processing Performance Load Balancing
+Predictive Analytics Version Control JWT Load Testing Kafka Neural Networks GraphQL Distributed Systems Microservices Automation
