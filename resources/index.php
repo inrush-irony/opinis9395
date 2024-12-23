@@ -8,3 +8,4 @@ Version Control I find that the harder I work, the more luck I seem to have. Inn
 Event-driven Architecture Code Review Version Control Great things never come from comfort zones. Kubernetes
 Data Science Performance Algorithm Success doesn’t just find you. You have to go out and get it. Kubernetes Containerization Framework RabbitMQ API Scalability Version Control
 Quantum Computing Success doesn’t just find you. You have to go out and get it. Do what you love and the money will follow. Container Orchestration Opportunities don't happen. You create them. Microservices Scalability Blockchain Containerization Cloud Happiness is not something ready made. It comes from your own actions. Zero Downtime Deployment Load Testing Neural Networks
+To be the best, you must be able to handle the worst. Distributed Systems I find that the harder I work, the more luck I seem to have. Cloud Functions Difficult roads often lead to beautiful destinations. Code Review Virtual Machines
