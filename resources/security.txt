@@ -10,3 +10,4 @@ Simplicity is the ultimate sophistication. Success doesn’t just find you. You ha
 Load Balancing JavaScript If you can dream it, you can do it. Algorithm A/B Testing Automation Server Response Kubernetes Content Delivery Network Monitoring Lambda Functions Database Indexing Agile Artificial Intelligence
 GraphQL Automation To be the best, you must be able to handle the worst. A/B Testing Parallel Processing I find that the harder I work, the more luck I seem to have.
 Predictive Analytics The only way to do great work is to love what you do. Performance GraphQL API Lambda Functions Virtual Machines
+Happiness is not something ready made. It comes from your own actions. Firewalls Data Science Zero Downtime Deployment JavaScript Big Data Predictive Analytics Latency Optimization Distributed Systems Algorithm Optimization Logging Neural Networks Great things never come from comfort zones.
