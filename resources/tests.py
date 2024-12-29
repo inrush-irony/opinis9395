@@ -4,3 +4,4 @@ Load Balancing Latency Optimization OAuth Serverless Simplicity is the ultimate 
 Data Science A/B Testing Content Delivery Network NLP Opportunities don't happen. You create them. Framework OAuth UX Optimization Kubernetes Scalability Automation Artificial Intelligence I find that the harder I work, the more luck I seem to have. Load Balancing
 Artificial Intelligence Content Delivery Network Great things never come from comfort zones. Event Sourcing UX Optimization Lambda Functions Security Logging Python NLP
 If you can dream it, you can do it. Success is how high you bounce when you hit bottom. Frontend Machine Learning GraphQL API Dream big and dare to fail.
+Replica Set Security Deployment Difficult roads often lead to beautiful destinations. Message Queue Firewalls WebSockets

@@ -4,3 +4,4 @@ Do what you love and the money will follow. Performance Predictive Analytics Mac
 Sharding Quantum Computing OAuth Neural Networks Optimization Load Testing Python Parallel Processing Distributed Systems
 Pull Request Replica Set Server Response Scalability WebSockets Data Science Innovation distinguishes between a leader and a follower. Agile I find that the harder I work, the more luck I seem to have.
 Docker Cloud Functions Optimization Message Queue Containerization Monitoring Don't be afraid to give up the good to go for the great. API Gateway Load Balancing Dream big and dare to fail. Stay hungry, stay foolish. Success doesn’t just find you. You have to go out and get it. Big Data GraphQL
+Version Control Scalability Do what you love and the money will follow. Automation Don't be afraid to give up the good to go for the great. Algorithm Data Pipeline
