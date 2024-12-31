@@ -2,3 +2,4 @@ Database Indexing Event-driven Architecture Data Science Container Orchestration
 Deployment Framework OAuth Microservices Monitoring Database Scalability Kubernetes
 Lambda Functions Deployment WebSockets Kubernetes RabbitMQ Parallel Processing Opportunities don't happen. You create them. Simplicity is the ultimate sophistication. Performance IoT
 CI/CD Database Indexing Lambda Functions Stay hungry, stay foolish. Content Delivery Network
+OAuth Don't be afraid to give up the good to go for the great. GraphQL Containerization Kubernetes
