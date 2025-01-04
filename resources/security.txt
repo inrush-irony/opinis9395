@@ -7,3 +7,4 @@ NLP Machine Learning RabbitMQ Quantum Computing Kubernetes Load Balancing OAuth 
 React API Gateway Big Data GraphQL Success is how high you bounce when you hit bottom. API
 WebSockets Performance Distributed Systems JavaScript Event Sourcing
 Simplicity is the ultimate sophistication. Success doesn’t just find you. You have to go out and get it. OAuth GraphQL Distributed Systems Cloud Content Delivery Network Cache Invalidation Do what you love and the money will follow. API Virtual Machines Event-driven Architecture I find that the harder I work, the more luck I seem to have.
+Load Balancing JavaScript If you can dream it, you can do it. Algorithm A/B Testing Automation Server Response Kubernetes Content Delivery Network Monitoring Lambda Functions Database Indexing Agile Artificial Intelligence
