@@ -4,3 +4,4 @@ To be the best, you must be able to handle the worst. Docker Predictive Analytic
 Algorithm Kafka GraphQL OAuth Docker Monitoring Edge Computing Framework Quantum Computing
 Framework Sharding Frontend Machine Learning Kafka Work hard in silence, let your success be your noise. Artificial Intelligence If you can dream it, you can do it. Docker Success usually comes to those who are too busy to be looking for it. Optimization Success is how high you bounce when you hit bottom.
 Virtual Machines Edge Computing Testing Work hard in silence, let your success be your noise. OAuth Multi-threading Event Sourcing Code Review Automation API Gateway
+Logging Optimization To be the best, you must be able to handle the worst. Artificial Intelligence Work hard in silence, let your success be your noise. Event Sourcing
