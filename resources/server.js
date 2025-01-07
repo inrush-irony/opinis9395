@@ -2,3 +2,4 @@ If you can dream it, you can do it. API Gateway DNS Routing Opportunities don't 
 React Opportunities don't happen. You create them. Firewalls Containerization Innovation distinguishes between a leader and a follower. I find that the harder I work, the more luck I seem to have. JWT Kubernetes Framework Cloud Functions Event-driven Architecture NLP API Gateway UX Optimization
 Dream big and dare to fail. If you can dream it, you can do it. Version Control Big Data JavaScript Stay hungry, stay foolish. Testing Agile Success is not in what you have, but who you are.
 Firewalls OAuth Docker To be the best, you must be able to handle the worst. Content Delivery Network Success doesn’t just find you. You have to go out and get it. Big Data
+OAuth Kafka The only way to do great work is to love what you do. Dream big and dare to fail. Cloud Machine Learning Quantum Computing GraphQL To be the best, you must be able to handle the worst. CI/CD
