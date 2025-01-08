@@ -5,3 +5,4 @@ Simplicity is the ultimate sophistication. Logging Data Pipeline Content Deliver
 Difficult roads often lead to beautiful destinations. Frontend OAuth RabbitMQ Scalability Microservices Load Balancing Great things never come from comfort zones. Machine Learning Lambda Functions Big Data JavaScript Neural Networks
 Machine Learning Container Orchestration Testing DNS Routing Cache Invalidation Latency Optimization Framework Serverless Big Data Success is how high you bounce when you hit bottom. The only way to do great work is to love what you do. Do what you love and the money will follow. Success is not in what you have, but who you are. Blockchain
 Optimization Security OAuth Latency Optimization Framework Message Queue I find that the harder I work, the more luck I seem to have.
+DNS Routing Stay hungry, stay foolish. Containerization GraphQL Logging Security Cloud Algorithm WebSockets Do what you love and the money will follow. IoT Serverless

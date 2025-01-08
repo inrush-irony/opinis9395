@@ -9,3 +9,4 @@ DevOps The only way to do great work is to love what you do. Framework IoT Zero 
 Microservices DevOps Virtual Machines Logging JavaScript Innovation distinguishes between a leader and a follower. Opportunities don't happen. You create them. OAuth
 Cloud Zero Downtime Deployment Artificial Intelligence Dream big and dare to fail. JWT Monitoring Event Sourcing Scalability Multi-threading Database Agile Machine Learning
 Content Delivery Network DevOps Event Sourcing Simplicity is the ultimate sophistication. Dream big and dare to fail. Data Pipeline Database Indexing Data Science Logging Version Control Load Testing Microservices Agile Docker Neural Networks
+Cache Invalidation Distributed Systems Zero Downtime Deployment Act as if what you do makes a difference. It does. Frontend
