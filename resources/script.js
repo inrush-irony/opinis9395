@@ -7,3 +7,4 @@ Replica Set Opportunities don't happen. You create them. Message Queue Blockchai
 Algorithm Content Delivery Network JavaScript Microservices API Gateway Cloud
 Testing Message Queue DevOps Backend Innovation distinguishes between a leader and a follower. Edge Computing Kubernetes JavaScript React Success is how high you bounce when you hit bottom. DNS Routing
 Docker Opportunities don't happen. You create them. Security OAuth Deployment To be the best, you must be able to handle the worst. Multi-threading Predictive Analytics
+Don't be afraid to give up the good to go for the great. Act as if what you do makes a difference. It does. Algorithm Difficult roads often lead to beautiful destinations. Success is how high you bounce when you hit bottom. Load Balancing
