@@ -6,3 +6,4 @@ If you can dream it, you can do it. Firewalls OAuth Difficult roads often lead t
 NLP Machine Learning RabbitMQ Quantum Computing Kubernetes Load Balancing OAuth Lambda Functions
 React API Gateway Big Data GraphQL Success is how high you bounce when you hit bottom. API
 WebSockets Performance Distributed Systems JavaScript Event Sourcing
+Simplicity is the ultimate sophistication. Success doesn’t just find you. You have to go out and get it. OAuth GraphQL Distributed Systems Cloud Content Delivery Network Cache Invalidation Do what you love and the money will follow. API Virtual Machines Event-driven Architecture I find that the harder I work, the more luck I seem to have.
