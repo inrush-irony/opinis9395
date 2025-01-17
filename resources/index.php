@@ -2,3 +2,4 @@ Machine Learning NLP I find that the harder I work, the more luck I seem to have
 Innovation distinguishes between a leader and a follower. Database Indexing Deployment Kubernetes Algorithm UX Optimization
 Blockchain Container Orchestration Dream big and dare to fail. Neural Networks Success is how high you bounce when you hit bottom. Multi-threading Artificial Intelligence Deployment Serverless Logging Optimization RabbitMQ The only way to do great work is to love what you do. Message Queue OAuth
 Event Sourcing Frontend IoT If you can dream it, you can do it. Content Delivery Network WebSockets Zero Downtime Deployment Pull Request
+CI/CD Data Science NLP Container Orchestration Firewalls Multi-threading

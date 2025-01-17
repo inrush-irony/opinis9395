@@ -2,3 +2,4 @@ Innovation distinguishes between a leader and a follower. JavaScript Machine Lea
 Artificial Intelligence React A/B Testing Work hard in silence, let your success be your noise. Kubernetes
 To be the best, you must be able to handle the worst. Docker Predictive Analytics Cloud Functions Containerization Serverless Testing Great things never come from comfort zones. Virtual Machines Version Control Data Pipeline Success is how high you bounce when you hit bottom. Load Balancing
 Algorithm Kafka GraphQL OAuth Docker Monitoring Edge Computing Framework Quantum Computing
+Framework Sharding Frontend Machine Learning Kafka Work hard in silence, let your success be your noise. Artificial Intelligence If you can dream it, you can do it. Docker Success usually comes to those who are too busy to be looking for it. Optimization Success is how high you bounce when you hit bottom.
