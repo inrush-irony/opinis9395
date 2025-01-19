@@ -3,3 +3,4 @@ Performance OAuth Optimization Big Data Edge Computing RabbitMQ GraphQL Happines
 Kafka Containerization Success is how high you bounce when you hit bottom. Great things never come from comfort zones. Container Orchestration Deployment
 Success is how high you bounce when you hit bottom. Great things never come from comfort zones. Kafka Stay hungry, stay foolish. Monitoring Agile
 If you can dream it, you can do it. Firewalls OAuth Difficult roads often lead to beautiful destinations. Data Science Replica Set
+NLP Machine Learning RabbitMQ Quantum Computing Kubernetes Load Balancing OAuth Lambda Functions
