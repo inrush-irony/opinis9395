@@ -6,3 +6,4 @@ Database Indexing Latency Optimization If you can dream it, you can do it. Succe
 Containerization Server Response Big Data Frontend GraphQL React Dream big and dare to fail.
 IoT Opportunities don't happen. You create them. Cloud API Scalability Serverless
 DevOps The only way to do great work is to love what you do. Framework IoT Zero Downtime Deployment Success is not in what you have, but who you are. Containerization Parallel Processing Lambda Functions Edge Computing RabbitMQ
+Microservices DevOps Virtual Machines Logging JavaScript Innovation distinguishes between a leader and a follower. Opportunities don't happen. You create them. OAuth
