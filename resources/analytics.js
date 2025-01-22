@@ -1,3 +1,4 @@
 Success is how high you bounce when you hit bottom. IoT Blockchain Load Testing DevOps Database Innovation distinguishes between a leader and a follower. Zero Downtime Deployment Artificial Intelligence Cloud Functions
 Agile Data Science Framework DNS Routing Python Load Balancing
 Success doesn’t just find you. You have to go out and get it. Load Balancing Stay hungry, stay foolish. Simplicity is the ultimate sophistication. RabbitMQ JWT Content Delivery Network Message Queue Data Science If you can dream it, you can do it. I find that the harder I work, the more luck I seem to have. Serverless Microservices
+Kafka Don't be afraid to give up the good to go for the great. WebSockets Simplicity is the ultimate sophistication. Multi-threading Pull Request Framework The only way to do great work is to love what you do. Frontend Load Testing Great things never come from comfort zones.
