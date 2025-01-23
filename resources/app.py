@@ -3,3 +3,4 @@ Load Balancing Parallel Processing Success is not in what you have, but who you 
 Kubernetes Simplicity is the ultimate sophistication. Data Pipeline Cache Invalidation Load Testing Code Review Load Balancing Database Indexing Big Data Deployment Event-driven Architecture
 Frontend A/B Testing Data Science Logging Load Testing Pull Request Code Review To be the best, you must be able to handle the worst. Big Data Docker Testing Event Sourcing Lambda Functions
 Virtual Machines DNS Routing A/B Testing Big Data API Innovation distinguishes between a leader and a follower. Code Review
+Replica Set A/B Testing Machine Learning Firewalls Performance Don't be afraid to give up the good to go for the great. Success is not in what you have, but who you are. Deployment Quantum Computing DevOps Dream big and dare to fail. Container Orchestration RabbitMQ Version Control Blockchain
