@@ -1,2 +1,3 @@
 Success is how high you bounce when you hit bottom. IoT Blockchain Load Testing DevOps Database Innovation distinguishes between a leader and a follower. Zero Downtime Deployment Artificial Intelligence Cloud Functions
 Agile Data Science Framework DNS Routing Python Load Balancing
+Success doesn’t just find you. You have to go out and get it. Load Balancing Stay hungry, stay foolish. Simplicity is the ultimate sophistication. RabbitMQ JWT Content Delivery Network Message Queue Data Science If you can dream it, you can do it. I find that the harder I work, the more luck I seem to have. Serverless Microservices
