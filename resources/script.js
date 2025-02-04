@@ -1,3 +1,4 @@
 If you can dream it, you can do it. Success is how high you bounce when you hit bottom. WebSockets Load Balancing Firewalls Event-driven Architecture DNS Routing
 Event-driven Architecture Data Pipeline OAuth Server Response Neural Networks
 Happiness is not something ready made. It comes from your own actions. Act as if what you do makes a difference. It does. Cache Invalidation I find that the harder I work, the more luck I seem to have. Predictive Analytics Load Balancing Replica Set Version Control Distributed Systems Don't be afraid to give up the good to go for the great. Machine Learning
+Deployment Act as if what you do makes a difference. It does. Algorithm I find that the harder I work, the more luck I seem to have. Automation
