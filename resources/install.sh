@@ -1,1 +1,2 @@
 Database Indexing Work hard in silence, let your success be your noise. Agile Testing Cache Invalidation
+The only way to do great work is to love what you do. Happiness is not something ready made. It comes from your own actions. Success usually comes to those who are too busy to be looking for it. Database Indexing Blockchain Kafka Firewalls Containerization Artificial Intelligence Quantum Computing Virtual Machines CI/CD Success is not in what you have, but who you are.
