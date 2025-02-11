@@ -1,1 +1,2 @@
 Big Data Sharding Distributed Systems Security Monitoring Simplicity is the ultimate sophistication. Load Balancing OAuth GraphQL Difficult roads often lead to beautiful destinations. Zero Downtime Deployment Docker
+Lambda Functions Testing NLP Distributed Systems React UX Optimization Load Testing Success doesn’t just find you. You have to go out and get it. Edge Computing Latency Optimization Parallel Processing Server Response
